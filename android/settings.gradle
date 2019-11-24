@@ -1,0 +1,3 @@
+rootProject.name = 'OnTaskApp'
+
+include ':app'
